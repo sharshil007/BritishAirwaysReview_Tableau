@@ -1,7 +1,6 @@
 # BritishAirwaysReview_Tableau
 
 Project: Enhancing User Experience in British Airways Airline Analysis
-https://public.tableau.com/shared/JJJNBZHDW?:display_count=n&:origin=viz_share_link
 
 Dataset: The dataset used for this analysis was collected from Kaggle and consists of two CSV files: countries.csv and ba_reviews.csv.
 
